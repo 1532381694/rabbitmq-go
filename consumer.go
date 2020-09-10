@@ -1,7 +1,6 @@
 package rabbitmq
 
 import (
-	"blumipark-gw/util"
 	"errors"
 	"fmt"
 	"log"

@@ -29,7 +29,6 @@ import (
 	"sync"
 	"time"
 
-	"blumipark-gw/util"
 
 	logrus "github.com/sirupsen/logrus"
 	"github.com/streadway/amqp"

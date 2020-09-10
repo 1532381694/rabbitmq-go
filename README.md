@@ -1,1 +1,1 @@
-# rabbitmq-go
+# rabbitmq-go example
